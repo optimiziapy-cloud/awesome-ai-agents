@@ -5586,7 +5586,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 - WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
 
-## [DevBoost Utility Suite](https://github.com/optimiziapy-cloud/devboost-utility-api)
+## [DevBoost Utility Suite](https://rapidapi.com/optimiziapycloud/api/devboost-utility-suite)
 Enterprise AI security guardrail against prompt injection, LLM context sanitization, and developer utilities.
 
 <details>
